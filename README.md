@@ -1,6 +1,6 @@
-# Java-Programming_ANM-Bazlur-Rahman
+# Java-Programming
 
-জাভা প্রোগ্রামিং (আ ন ম বজলুর রহমান) Book's Code
+জাভা প্রোগ্রামিং (ANM Bazlur Rahman) Book's Code Collection
 
 ## Links
 
