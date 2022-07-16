@@ -129,3 +129,23 @@
 - [x] [অধ্যায় ১৫ – ইউনিট টেস্ট (Unit Test)](src/com/gmail/shihab4t/chapter15)
   - [x] JUnit5 অ্যানোটেশন (JUnit5 annotations)
   - [x] অ্যাসার্ট স্টেটমেন্ট (Assert statement)
+  
+## Notes
+
+- OOP
+- SOLID
+- Design Patterns
+- PIE
+  - P -> Polymorphism
+  - I -> Inheritance
+  - E -> Encapsulation
+  - Composition
+  - Abstraction
+- Object -> Attributes, Behavior
+- Thump Rule
+  - rule#1: Attributes should always private
+  - rule#2:
+- High level, low level details
+- Encapsulation
+  - Data hiding
+  - An object should reveal only minimalistic behavior
